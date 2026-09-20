@@ -1,27 +1,27 @@
-# Say It Back 🗣️
+# Say It Back
 
 **Say It Back** is a web app that helps people understand how their messages might be perceived before they send them.
 
 It analyzes a given message for its **tone, intent, and potential impact**, then provides a **softer, more considerate rewrite** that preserves the original meaning while reducing the chances of unnecessary conflict or misunderstanding.
 
-## ✨ Features
+##  Features
 
-* 🎭 **Tone Analysis**
+* **Tone Analysis**
   Identifies the emotional tone of a message, such as angry, passive-aggressive, friendly, neutral, etc.
 
-* 🎯 **Intent Analysis**
+* **Intent Analysis**
   Helps understand what the message appears to be trying to communicate.
 
-* 💥 **Impact Analysis**
+* **Impact Analysis**
   Shows how the message might be perceived by the person receiving it.
 
-* ✍️ **Suggested Rewrite**
+* **Suggested Rewrite**
   Generates a softer version of the message while trying to preserve its original meaning.
 
-* 🧠 **Conflict Prevention**
+* **Conflict Prevention**
   Helps users communicate more clearly and avoid unnecessary misunderstandings or arguments.
 
-## 💡 Why Say It Back?
+## Why Say It Back?
 
 Sometimes we know **what** we want to say, but the way we write it can make it sound harsher than we intended.
 
@@ -31,7 +31,7 @@ A short message can easily be misunderstood because text doesn't carry facial ex
 
 > **Type it. Understand it. Say it better.**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * HTML
 * CSS
@@ -41,7 +41,7 @@ A short message can easily be misunderstood because text doesn't carry facial ex
 * Google Gemini API
 * Firebase
 
-## 🚀 How It Works
+## How It Works
 
 1. Enter the message you want to analyze.
 2. Say It Back analyzes its tone, intent, and potential impact.
@@ -49,13 +49,13 @@ A short message can easily be misunderstood because text doesn't carry facial ex
 4. The app suggests a softer rewrite.
 5. You can use the suggested version as a starting point for a more considerate conversation.
 
-## 🎯 Goal
+## Goal
 
 The goal of Say It Back isn't to tell people **what they should say**.
 
 It's to help people understand **how their words might be received** and give them another way to express the same thought with less unnecessary friction.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * More detailed tone and emotion detection
 * Multiple rewrite styles, such as professional, friendly, casual, or empathetic
@@ -63,6 +63,6 @@ It's to help people understand **how their words might be received** and give th
 * Support for multiple languages
 * Better personalization based on the relationship between the people communicating
 
-## 👩‍💻 Project
+## Project
 
 Say It Back was built as a project exploring how AI can be used to improve everyday communication and reduce misunderstandings in text-based conversations.
