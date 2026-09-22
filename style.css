@@ -45,10 +45,11 @@ body::after { background: #a855f7; bottom: -10%; right: -5%; }
 @keyframes move { from { transform: translate(0,0) scale(1); } to { transform: translate(100px, 100px) scale(1.2); } }
 
 .container {
-  max-width: 1200px;
+  max-width: 5000px;
+  min-height: 800px;
   width: 90%;
-  margin: 40px auto;
-  padding: 0;
+  margin: 100px auto;
+  padding: 0 50px;
   gap: 24px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
