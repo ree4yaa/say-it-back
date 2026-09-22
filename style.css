@@ -67,7 +67,7 @@ body::after { background: #a855f7; bottom: -10%; right: -5%; }
   padding: 30px;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   transition: transform 0.3s ease, border-color 0.3s ease;
-  align-items: stretch; /* CHANGED FROM center TO stretch */
+  align-items: stretch;
   justify-content: space-between;
   box-sizing: border-box;
 }
